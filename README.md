@@ -2,58 +2,72 @@
 
 ## About Me
 
-I'm a Mechatronic Engineering student at JKUAT with a passion for building technology that solves real-world problems.
+I'm a Mechatronic Engineering student at JKUAT passionate about building intelligent systems that combine software, electronics, and engineering.
 
-I'm currently building **PoultryOS**, a modern SaaS platform for poultry farm management designed to help farms manage production, health, finances, and operations from anywhere.
+I enjoy working across the full technology stack—from cloud-based SaaS applications to embedded systems running on microcontrollers.
 
 ---
 
-## 🚀 Current Project
+## 🚀 Current Projects
 
 ### 🐔 PoultryOS
 
-A multi-tenant poultry management platform built for real farms.
+A modern multi-tenant SaaS platform for poultry farm management.
 
-### Current Features
+Current features include:
 
-- 🔐 JWT Authentication
-- 👥 Role-Based Access Control (RBAC)
-- 🏢 Multi-Tenant Architecture
-- 🐓 Farm Management
-- 📋 Daily Logs
-- 💊 Health Records
-- 💰 Sales & Expenses
-- 📱 Responsive React Dashboard
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- Multi-Tenant Architecture
+- Farm Management
+- Daily Logs
+- Health Records
+- Sales & Expenses
+- Responsive React Dashboard
 
 ---
 
-## 💻 Tech Stack
+## 🤖 Interests
 
-### Languages
+- Embedded Systems
+- Internet of Things (IoT)
+- Robotics
+- Drone Engineering
+- Artificial Intelligence
+- Industrial Automation
 
+---
+
+## 💻 Languages
+
+- C
+- C++
 - Python
 - TypeScript
 - JavaScript
-- C
 - SQL
 
-### Backend
+---
 
+## 🔧 Hardware Platforms
+
+- Raspberry Pi
+- ESP32
+- STM32
+- Arduino
+- PIC Microcontrollers
+
+---
+
+## 🛠 Software & Frameworks
+
+- React
 - Node.js
 - Express
 - Prisma
 - PostgreSQL
-
-### Frontend
-
-- React
-- Vite
-
-### Tools
-
-- Git
-- GitHub
 - Docker
+- Git
 - Linux (Ubuntu)
 
 ---
@@ -61,26 +75,24 @@ A multi-tenant poultry management platform built for real farms.
 ## 🌱 Currently Learning
 
 - Advanced TypeScript
-- SaaS Architecture
 - Cloud Deployment
-- Embedded Systems
-- Drone Engineering
-- AI Applications
+- Embedded Linux
+- Flight Control Systems
+- Computer Vision
+- AI for Robotics
 
 ---
 
-## 🎯 Goals
+## 🎯 Long-Term Goal
 
-- Build PoultryOS into a production-ready SaaS platform.
-- Become a skilled Software & Embedded Systems Engineer.
-- Create technology that solves real engineering problems.
+To become a world-class engineer building intelligent systems that combine embedded hardware, robotics, and scalable software.
 
 ---
 
 ## 📫 Contact
 
-📧 Email: ibrahimgichemba@gmail.com
+📧 ibrahim.gichemba@gmail.com
 
 ---
 
-> *"Every expert was once a beginner who refused to quit."*
+> *Engineering the future—one system at a time.*
