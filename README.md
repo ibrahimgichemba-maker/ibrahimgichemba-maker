@@ -68,7 +68,7 @@ Current features include:
 - PostgreSQL
 - Docker
 - Git
-- Linux (Ubuntu)
+- Linux (Alma Linux + Ubuntu Linux)
 
 ---
 
