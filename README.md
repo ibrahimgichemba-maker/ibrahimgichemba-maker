@@ -69,6 +69,7 @@ Current features include:
 - Docker
 - Git
 - Linux (Alma Linux + Ubuntu Linux)
+- Ros2
 
 ---
 
