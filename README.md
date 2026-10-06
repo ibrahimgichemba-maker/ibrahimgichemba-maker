@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Mechatronic Engineering student at JKUAT passionate about building intelligent systems that combine software, electronics, and engineering.
+I'm passionate about building intelligent systems that combine software, electronics, and engineering.
 
 I enjoy working across the full technology stack—from cloud-based SaaS applications to embedded systems running on microcontrollers.
 
