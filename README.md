@@ -1,16 +1,12 @@
-# Hi there, I'm Ibrahim Gichemba 
-
-## About Me
+>> About Me
 
 I'm passionate about building intelligent systems that combine software, electronics, and engineering.
 
 I enjoy working across the full technology stack—from cloud-based SaaS applications to embedded systems running on microcontrollers.
 
----
+>> Current Projects
 
-##  Current Projects
-
-###  PoultryGO
+>> PoultryGO
 
 A modern multi-tenant SaaS platform for poultry farm management.
 
@@ -25,9 +21,7 @@ Current features include:
 - Sales & Expenses
 - Responsive React Dashboard
 
----
-
-## Interests
+>> Interests
 
 - Embedded Systems
 - Internet of Things (IoT)
@@ -36,9 +30,7 @@ Current features include:
 - Artificial Intelligence
 - Industrial Automation
 
----
-
-## Languages
+>> Languages
 
 - C
 - C++
@@ -47,9 +39,7 @@ Current features include:
 - JavaScript
 - SQL
 
----
-
-##  Hardware Platforms
+>> Hardware Platforms
 
 - Raspberry Pi
 - ESP32
@@ -57,9 +47,7 @@ Current features include:
 - Arduino
 - PIC Microcontrollers
 
----
-
-##  Software & Frameworks
+>> Software & Frameworks
 
 - React
 - Node.js
@@ -71,9 +59,7 @@ Current features include:
 - Linux (Alma Linux + Ubuntu Linux)
 - Ros2
 
----
-
-##  Currently Learning
+>> Currently Learning
 
 - Advanced TypeScript
 - Cloud Deployment
@@ -82,15 +68,11 @@ Current features include:
 - Computer Vision
 - AI for Robotics
 
----
-
-##  Long-Term Goal
+>> Long-Term Goal
 
 To become a world-class engineer building intelligent systems that combine embedded hardware, robotics, and scalable software.
 
----
-
-##  Contact
+>> Contact
 
 📧 ibrahim.gichemba@gmail.com
 
